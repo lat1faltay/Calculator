@@ -5,7 +5,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.text.JTextComponent;
-
 import java.awt.Window.Type;
 import javax.swing.JTextField;
 import java.awt.Font;
